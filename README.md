@@ -1,5 +1,5 @@
 # Pyro_solver
-GPU for viewport and CPU for rendering
+GPU for viewport and CPU for solving and rendering
 
 ![2](https://user-images.githubusercontent.com/63625631/128718915-2eac5475-cc59-45d2-a3fd-b6f5991b34bb.jpg)
 ![1](https://user-images.githubusercontent.com/63625631/128718931-620ed0a2-105f-4c8b-ad23-b97bdff88018.jpg)
